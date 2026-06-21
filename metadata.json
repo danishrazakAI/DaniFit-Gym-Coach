@@ -1,0 +1,6 @@
+{
+  "name": "DaniFit Coach",
+  "description": "AI Gym Trainer, Fitness Coach, Nutritionist, and Health Companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
